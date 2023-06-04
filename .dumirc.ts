@@ -3,6 +3,6 @@ import { defineConfig } from 'dumi';
 export default defineConfig({
   outputPath: 'docs-dist',
   themeConfig: {
-    name: 'rc-scroll-loading',
+    name: '滚动加载组件',
   },
 });
